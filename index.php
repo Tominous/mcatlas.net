@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <?php include('includes/head.php') ?>
 
@@ -7,7 +7,7 @@
     <div class="splash">
         <?php include('includes/nav.php') ?>
 
-        <img class="logo" src="/img/mcatlas.png">
+        <img class="logo" src="/img/mcatlas.png" alt="logo">
 
         <div id="connect">
             <h1>JOIN THE FUN</h1>
@@ -28,7 +28,7 @@
 
         <div class="content-section top-border">
             <h1>WORLD STATS</h1>
-            <table align="center">
+            <table style="align-content: center;">
                 <tr>
                     <td>1</td>
                     <td>1:500 scale map of the Earth!</td>

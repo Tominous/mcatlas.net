@@ -23,6 +23,6 @@
         gtag('config', 'UA-142397828-1');
     </script>
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script defer type="text/javascript" src="/js/main.js"></script>
-    <script async type="text/javascript" src="/js/jquery-eu-cookie-law-popup.js"></script>
+    <script defer src="/js/main.js"></script>
+    <script async src="/js/jquery-eu-cookie-law-popup.js"></script>
 </head>
