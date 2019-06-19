@@ -33,7 +33,7 @@
 			colorStyle: 'default',
 			compactStyle: true,
 			popupTitle: 'This website is using cookies. ',
-			popupText: 'We use cookies to give you the best experience possible.',
+			popupText: 'We use cookies to give you a better experience.',
 			buttonContinueTitle: 'Continue',
 			buttonLearnmoreTitle: 'Learn&nbsp;more',
 			buttonLearnmoreOpenInNewWindow: true,
@@ -255,7 +255,7 @@
 			$(document).euCookieLawPopup().init({
 				'info': 'YOU_CAN_ADD_MORE_SETTINGS_HERE',
 				popupTitle: 'This website is using cookies. ',
-				popupText: 'We use cookies to give you the best experience possible.'
+				popupText: 'We use cookies to give you a better experience.'
 			});
 		}
 	});
