@@ -2,6 +2,9 @@ RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
+RewriteCond %{HTTP_HOST} ^www.mcatlas.net [NC]
+RewriteRule ^(.*)$ http://mcatlas.net/$1 [L,R=301]
+
 RewriteRule .git/* - [F]
 RewriteRule README.md - [F]
 RewriteRule LICENSE.txt - [F]
