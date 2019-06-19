@@ -28,7 +28,7 @@
 
         <div class="content-section top-border">
             <h1>WORLD STATS</h1>
-            <table style="align-content: center;">
+            <table style="display:inline;align-content:center;">
                 <tr>
                     <td>1</td>
                     <td>1:500 scale map of the Earth!</td>
