@@ -1,8 +1,8 @@
-<img id="antartica-bg" src="img/antartica.png">
+<img id="antartica-bg" src="/img/antartica.png">
 
 <div class="footer">
     <div id="copyright">
-        <img src="img/ruinscraft.png" style="width:5rem;height:auto;padding:15px;">
+        <img src="/img/ruinscraft.png" style="width:5rem;height:auto;padding:15px;">
         <p>
             MCATLAS is a Minecraft server by <a href="https://ruinscraft.com">Ruinscraft</a>.
             &copy;
@@ -12,8 +12,8 @@
     </div>
     <div id="social">
         <p>
-            <a href="terms-and-privacy">Terms and Privacy</a><br>
-            <a href="contact">Contact</a><br>
+            <a href="/terms-and-privacy">Terms and Privacy</a><br>
+            <a href="/contact">Contact</a><br>
             <a href="https://twitter.com/ruinscraft">Twitter</a><br>
             <a href="https://facebook.com/RuinscraftMinecraftServer">Facebook</a><br>
             <a href="https://github.com/Ruinscraft">GitHub</a><br>

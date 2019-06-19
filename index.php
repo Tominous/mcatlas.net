@@ -7,7 +7,7 @@
     <div class="splash">
         <?php include('includes/nav.php') ?>
 
-        <img class="logo" src="img/mcatlas.png">
+        <img class="logo" src="/img/mcatlas.png">
 
         <div id="connect">
             <h1>JOIN THE FUN</h1>
@@ -23,7 +23,7 @@
             <p>MCATLAS hosts a 1:500 scale replica of the real world (except it's flat)! You can create towns, form
                 countries, go to war, and most importantly, have loads of fun with friends on this unique server
                 experience.</p>
-            <p>You can view a real-time map of the world <a href="map/">here!</a></p>
+            <p>You can view a real-time map of the world <a href="/map">here!</a></p>
         </div>
 
         <div class="content-section top-border">
