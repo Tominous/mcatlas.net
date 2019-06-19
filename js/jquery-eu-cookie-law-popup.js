@@ -31,14 +31,14 @@ $.fn.euCookieLawPopup = (function() {
 		cookiePolicyUrl : '/terms-and-privacy',
 		popupPosition : 'top',
 		colorStyle : 'default',
-		compactStyle : false,
+		compactStyle : true,
 		popupTitle : 'This website is using cookies',
 		popupText : 'We use cookies to give you the best experience possible.',
 		buttonContinueTitle : 'Continue',
 		buttonLearnmoreTitle : 'Learn&nbsp;more',
 		buttonLearnmoreOpenInNewWindow : true,
-		agreementExpiresInDays : 30,
-		autoAcceptCookiePolicy : false,
+		agreementExpiresInDays : 90,
+		autoAcceptCookiePolicy : true,
 		htmlMarkup : null
 	};
 
