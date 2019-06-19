@@ -112,13 +112,14 @@ a:hover {
 
 .content {
     min-height: 100vh;
-    max-width: 60vw;
+    max-width: 1500px;
     margin: auto;
     padding-bottom: 100px;
 }
 
 .content-section {
     z-index: 100;
+    margin: 20px;
     position: relative;
 }
 
