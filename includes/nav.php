@@ -1,8 +1,5 @@
 <div class="bg"></div>
 <div class="bg-trans"></div>
-<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-<script type="text/javascript" src="/js/main.js"></script>
-<script type="text/javascript" src="/js/jquery-eu-cookie-law-popup.js"></script>
 <nav class="navbar">
     <?php
     if (basename($_SERVER['PHP_SELF']) != "index.php") {
