@@ -1,6 +1,6 @@
 @font-face {
     font-family: selawk;
-    src: url(fonts/selawk.ttf);
+    src: url(/fonts/selawk.ttf);
 }
 
 body {
@@ -43,7 +43,7 @@ a:hover {
 
 .bg {
     z-index: 1;
-    background-image: url('img/world.png');
+    background-image: url('/img/world.png');
     background-repeat: no-repeat;
     background-position: top;
     background-size: contain;
