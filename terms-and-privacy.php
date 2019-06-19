@@ -13,7 +13,7 @@
 
             <ol class="legal-list">
                 <li>You will not attempt to cause damage (including but not limited to physical, emotional, financial) to the Website or its users.</li>
-                <li>You will not use any copyrighted material from this Website in a commercial endevor.</li>
+                <li>You will not use any copyrighted material from this Website in a commercial endeavor.</li>
                 <li>You will not misuse the Website for any type of personal gain (including but not limited to financial).</li>
             </ol>
 
