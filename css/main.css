@@ -86,14 +86,6 @@ a:hover {
     color: gold;
 }
 
-.jumbo {
-    font-size: calc(6vh + 6vw);
-    background: linear-gradient(0deg, rgb(114, 114, 114) 10%, white 90%);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-
 .logo {
     z-index: 2;
     width: 30rem;
