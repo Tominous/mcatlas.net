@@ -33,7 +33,7 @@ $.fn.euCookieLawPopup = (function() {
 		colorStyle : 'default',
 		compactStyle : false,
 		popupTitle : 'This website is using cookies',
-		popupText : 'We use cookies to ensure that we give you the best experience on our website.',
+		popupText : 'We use cookies to give you the best experience possible.',
 		buttonContinueTitle : 'Continue',
 		buttonLearnmoreTitle : 'Learn&nbsp;more',
 		buttonLearnmoreOpenInNewWindow : true,
