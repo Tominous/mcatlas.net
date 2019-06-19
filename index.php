@@ -16,8 +16,9 @@
         </div>
     </div>
 
-    <div class="content">
-        <div class="content-section top-border">
+    <div class="content-minified">
+        <div class="content-section">
+            <hr>
             <h1>EXPLORE MCATLAS</h1>
             <p>Have you ever wanted to play in a Minecraft world that is just like the real world?</p>
             <p>MCATLAS hosts a 1:500 scale replica of the real world (except it's flat)! You can create towns, form
@@ -26,12 +27,14 @@
             <p>You can view a real-time map of the world <a href="/map">here!</a></p>
         </div>
 
-        <div class="content-section top-border">
+        <div class="content-section">
+            <hr>
             <h1>WORLD STATS</h1>
             <?php include('includes/stats.php') ?>
         </div>
 
-        <div class="content-section top-border">
+        <div class="content-section">
+            <hr>
             <h1>LEARN TO PLAY</h1>
             <ul id="help-list">
                 <li><a href="#">Create a town</a></li>
@@ -42,21 +45,23 @@
             </ul>
         </div>
 
-        <div class="content-section top-border">
+        <div class="content-section">
+            <hr>
             <h1>THE RULES</h1>
             <p>To play on our server, you must follow these rules:</p>
             <ol id="rule-list">
-                <li>Do not use client-side cheats or hacks.</li>
-                <li>Do not exploit any server-side bugs. <a href="#">Report them!</a></li>
-                <li>Do not attempt to lag or cause harm to the server.</li>
-                <li>No inappropriate material (builds, chat, etc). Includes swearing. Keep it PG.</li>
-                <li>No griefing or defacing the surface of the world.</li>
-                <li>No harassing or bullying other players.</li>
-                <li>Do not advertise other servers or products.</li>
+                <li class="rule-list-entry">Do not use client-side cheats or hacks.</li>
+                <li class="rule-list-entry">Do not exploit any server-side bugs. <a href="#">Report them!</a></li>
+                <li class="rule-list-entry">Do not attempt to lag or cause harm to the server.</li>
+                <li class="rule-list-entry">No inappropriate material (builds, chat, etc). Includes swearing. Keep it PG.</li>
+                <li class="rule-list-entry">No griefing or defacing the surface of the world.</li>
+                <li class="rule-list-entry">No harassing or bullying other players.</li>
+                <li class="rule-list-entry">Do not advertise other servers or products.</li>
             </ol>
         </div>
 
-        <div class="content-section top-border">
+        <div class="content-section">
+            <hr>
             <h1>JOIN OUR TEAM</h1>
             <p>Join an extremely talented and hard-working team that volunteer to make this server possible.</p>
             <p><a href="https://ruinscraft.com/forums/staff-applications/">Apply here</a></p>
