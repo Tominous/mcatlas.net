@@ -7,7 +7,7 @@
     <div class="splash">
         <?php include('includes/nav.php') ?>
 
-        <img class="logo" src="/img/mcatlas.png" alt="logo">
+        <img class="logo" src="/img/mcatlas-scaled.png" alt="logo">
 
         <div id="connect">
             <h1>JOIN THE FUN</h1>

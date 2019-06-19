@@ -2,7 +2,7 @@
 
 <div class="footer">
     <div id="copyright">
-        <img src="/img/ruinscraft.png" style="width:5rem;height:auto;padding:15px;" alt="ruinscraft-logo">
+        <img src="/img/ruinscraft-scaled.png" style="width:5rem;height:auto;padding:15px;" alt="ruinscraft-logo">
         <p>
             MCATLAS is a Minecraft server by <a href="https://ruinscraft.com">Ruinscraft</a>.
             &copy;
