@@ -1,0 +1,247 @@
+@font-face {
+    font-family: selawk;
+    src: url(fonts/selawk.ttf);
+}
+
+body {
+    position: relative;
+    font-family: 'selawk', sans-serif;
+    color: #c0c0c0;
+    background: linear-gradient(180deg, #002366 0%, #001235 51%);
+    background-repeat: no-repeat;
+    font-size: 1.2rem;
+    text-align: center;
+    margin: 0px;
+}
+
+table {
+    padding: 20px;
+}
+
+a {
+    color: #c0c0c0;
+}
+
+img {
+    z-index: 2;
+    position: relative;
+}
+
+a:hover {
+    background-color: #408817;
+    color: white;
+}
+
+::selection {
+    color: white;
+    background-color: #408817;
+}
+
+.splash {
+    min-height: 99vh;
+}
+
+.bg {
+    z-index: 1;
+    background-image: url('img/world.png');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+}
+
+.bg-trans {
+    z-index: 99;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.button {
+    z-index: 100;
+    background-color: #408817;
+    color: white;
+    border-radius: 4px;
+    border: none;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.1s;
+    display: inline-block;
+    margin: 15px;
+    width: 5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    text-shadow: 1px 2px #0000001e;
+    box-shadow: 4px 8px #00000031;
+    position: relative;
+}
+
+.button:hover {
+    color: lightgray;
+}
+
+.gold-text {
+    color: gold;
+}
+
+.jumbo {
+    font-size: calc(6vh + 6vw);
+    background: linear-gradient(0deg, rgb(114, 114, 114) 10%, white 90%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.logo {
+    z-index: 2;
+    width: 30rem;
+    max-width: 90%;
+    height: auto;
+    position: relative;
+    padding-top: 40px;
+}
+
+.address {
+    z-index: 100;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border-radius: 4px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+}
+
+#connect {
+    margin-bottom: 75px;
+}
+
+.content {
+    min-height: 100vh;
+    max-width: 60vw;
+    margin: auto;
+    padding-bottom: 100px;
+}
+
+.content-section {
+    z-index: 100;
+    position: relative;
+}
+
+.top-border {
+    border-top-style: solid;
+    border-top-color: rgba(192, 192, 192, 0.445);
+    border-top-width: 2px;
+}
+
+#antartica-bg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.footer {
+    z-index: 100;
+    font-size: 1rem;
+    background-color: black;
+    margin: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    flex-flow: row wrap;
+    border-top-style: solid;
+    border-color: rgba(192, 192, 192, 0.445);;
+    border-width: 2px;
+    position: relative;
+}
+
+#copyright {
+    order: 2;
+}
+
+#social {
+    order: 1;
+}
+
+.footer p {
+    padding: 0px;
+    margin: 0px;
+}
+
+#help-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+#rule-list {
+    text-align: left;
+    list-style-position: outside;
+    padding-left: 10vw;
+}
+
+.legal {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 4px 8px #00000031;
+}
+
+.legal-list {
+    text-align: left;
+    list-style-position: outside;
+}
+
+#vote-page {
+    box-shadow: 4px 8px #00000031;
+    border: none;
+    width: 100%;
+    height: 900px;
+}
+
+#vote-links {
+    background-color: #408817;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    flex-flow: row wrap;
+}
+
+#vote-links li {
+    padding: 20px;
+}
+
+#vote-links a {
+    font-weight: bold;
+    font-size: 1.1em;
+    transition-duration: 0.1s;
+    text-decoration: none;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: lightgray;
+}
+
+.ndzn-active-voteLink {
+    color: gold;
+}
+
+.really-small {
+    font-size: 0.7rem;
+}
