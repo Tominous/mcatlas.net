@@ -18,4 +18,4 @@ Options +MultiViews
 AuthType Basic
 AuthName "Development"
 AuthUserFile /var/www/html/mcatlas.net/.htpasswd
-Require admin
+Require valid-user
