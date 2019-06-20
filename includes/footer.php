@@ -6,7 +6,12 @@
         <p>
             MCATLAS is a Minecraft server by <a href="https://ruinscraft.com">Ruinscraft</a>.
             &copy;
-            <?php echo date("Y"); ?> Ruinscraft.
+            <?php
+            if (!ini_get('date.timezone')) {
+                date_default_timezone_set('GMT');
+            }
+            echo date("Y");
+            ?> Ruinscraft.
         </p>
         <p>Minecraft is a registered trademark of Microsoft Corporation.</p>
     </div>
