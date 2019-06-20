@@ -7,8 +7,15 @@ RewriteRule .git/* - [F]
 RewriteRule includes/* - [F]
 RewriteRule README.md - [F]
 RewriteRule LICENSE.txt - [F]
+RewriteRule .htaccess - [F]
+RewriteRule .htpasswd - [F]
 
 ErrorDocument 404 /404.php
 
 Options -Indexes
 Options +MultiViews
+
+AuthType Basic
+AuthName "Development"
+AuthUserFile /.htpasswd
+Require valid-user
