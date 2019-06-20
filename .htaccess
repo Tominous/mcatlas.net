@@ -3,6 +3,9 @@ RewriteEngine On
 RewriteCond %{HTTP_HOST} ^www.mcatlas.net [NC]
 RewriteRule ^(.*)$ http://mcatlas.net/$1 [L,R=301]
 
+# ensure /map has a trailing slash
+RewriteRule ^map$ map/
+
 RewriteRule .git/* - [F]
 RewriteRule includes/* - [F]
 RewriteRule README.md - [F]
