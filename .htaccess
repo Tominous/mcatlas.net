@@ -17,5 +17,5 @@ Options +MultiViews
 
 AuthType Basic
 AuthName "Development"
-AuthUserFile /.htpasswd
+AuthUserFile .htpasswd
 Require valid-user
