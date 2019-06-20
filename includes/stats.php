@@ -1,7 +1,7 @@
 <table style="display:inline;align-content:center;">
     <tr>
         <td>1</td>
-        <td>1:500 scale map of the Earth!</td>
+        <td>1:1000 scale map of the Earth!</td>
     </tr>
     <tr>
         <td>23</td>
