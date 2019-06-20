@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Development"
-AuthUserFile /var/www/html/mcatlas.net/dev/.htpasswd
-Require valid-user
