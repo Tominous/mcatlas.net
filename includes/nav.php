@@ -8,7 +8,7 @@
     ?>
     <a class="button gold-text" href="/vote">VOTE</a>
     <a class="button" href="/map">MAP</a>
-    <a class="button" href="https://mcatlas.fandom.com">WIKI</a>
+    <a class="button" href="#">WIKI</a>
     <a class="button" href="/bans">BANS</a>
     <a class="button" href="#">DISCORD</a>
 </nav>
