@@ -4,19 +4,19 @@
         <td>1:1000 scale map of the Earth!</td>
     </tr>
     <tr>
-        <td>23</td>
+        <td>?</td>
         <td>towns</td>
     </tr>
     <tr>
-        <td>4</td>
+        <td>?</td>
         <td>countries</td>
     </tr>
     <tr>
-        <td>23</td>
+        <td>?</td>
         <td>current players</td>
     </tr>
     <tr>
-        <td>5345</td>
+        <td>?</td>
         <td>unique players</td>
     </tr>
 </table>

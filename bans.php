@@ -7,6 +7,7 @@
     <?php include('includes/nav.php') ?>
 
     <div class="content">
+        <p>Coming Soon</p>
     </div>
 
     <?php include('includes/footer.php') ?>
