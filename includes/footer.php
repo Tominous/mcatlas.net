@@ -22,7 +22,7 @@
             <a href="https://twitter.com/ruinscraft">Twitter</a><br>
             <a href="https://facebook.com/RuinscraftMinecraftServer">Facebook</a><br>
             <a href="https://github.com/Ruinscraft">GitHub</a><br>
-            <a href="#">YouTube</a><br>
+            <a href="https://www.youtube.com/user/royalkingkb">YouTube</a><br>
         </p>
     </div>
 </div>

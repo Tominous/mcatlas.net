@@ -17,22 +17,22 @@
             <div class="vote">
                 <ul id="vote-links">
                     <li>
-                        <a class="ndzn-active-voteLink nav-link" href="javascript:;" onclick="setURL(&quot;https://minecraftservers.org/vote/21539&quot;, this);">
-                            MinecraftServers.org
+                        <a class="ndzn-active-voteLink nav-link" href="javascript:;" onclick="setURL(&quot;&quot;, this);">
+                            Coming Soon
                         </a>
                     </li>
                     <li>
-                        <a class="nav-link" href="javascript:;" onclick="setURL(&quot;https://minecraft-server.net/vote/creativefun/&quot;, this);">
-                            Minecraft-Server.net
+                        <a class="nav-link" href="javascript:;" onclick="setURL(&quot;&quot;, this);">
+                            Coming Soon
                         </a>
                     </li>
                     <li>
-                        <a class="nav-link" href="javascript:;" onclick="setURL(&quot;https://www.planetminecraft.com/server/creative-fun-3615918/vote/&quot;, this);">
-                            Planet Minecraft
+                        <a class="nav-link" href="javascript:;" onclick="setURL(&quot;&quot;, this);">
+                            Coming Soon
                         </a>
                     </li>
                 </ul>
-                <iframe src="https://minecraftservers.org/vote/21539" id="vote-page"></iframe>
+                <iframe src="" id="vote-page"></iframe>
             </div>
         </div>
         
