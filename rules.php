@@ -8,7 +8,7 @@
 
     <div class="content">
         <h1>MCATLAS Rules</h1>
-        <div style="text-align: left;">
+        <div style="text-align: left; z-index: 100; position: relative">
             <h2>General Rules</h2>
 
             <ol id="rule-list">
