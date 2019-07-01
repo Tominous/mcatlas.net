@@ -37,11 +37,11 @@
             <hr>
             <h1>LEARN TO PLAY</h1>
             <ul id="help-list">
-                <li><a href="#">Create a town</a></li>
-                <li><a href="#">Create a town</a></li>
-                <li><a href="#">Create a town</a></li>
-                <li><a href="#">Create a town</a></li>
-                <li><a href="#">Create a town</a></li>
+                <li><a href="#">Coming Soon</a></li>
+                <li><a href="#">Coming Soon</a></li>
+                <li><a href="#">Coming Soon</a></li>
+                <li><a href="#">Coming Soon</a></li>
+                <li><a href="#">Coming Soon</a></li>
             </ul>
         </div>
 
