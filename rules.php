@@ -13,7 +13,7 @@
 
             <ol id="rule-list">
 				<li class="rule-list-entry">Do not use client-side cheats or hacks. You may use mods that do not provide a large advantage in gameplay (Optifine, minimaps, etc.)</li>
-                <li class="rule-list-entry">Do not exploit any server-side bugs. <a href="discord.gg/srSSSgJ">Report them!</a></li>
+                <li class="rule-list-entry">Do not exploit any server-side bugs. <a href="https://discord.gg/srSSSgJ">Report them!</a></li>
                 <li class="rule-list-entry">Do not attempt to lag or cause harm to the server.</li>
 				<li class="rule-list-entry">No inappropriate material (builds, chat, town names, etc). Includes swearing. Keep it PG.</li>
 				<li class="rule-list-entry">No harassing or bullying other players.</li>
