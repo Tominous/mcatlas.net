@@ -9,7 +9,7 @@
     <div class="content">
         <h1>MCATLAS Rules</h1>
         <div style="text-align: left;">
-            <h2>Server Rules</h2>
+            <h2>General Rules</h2>
 
             <ol id="rule-list">
 				<li class="rule-list-entry">Do not use client-side cheats or hacks. You may use mods that do not provide a large advantage in gameplay (Optifine, minimaps, etc.)</li>
