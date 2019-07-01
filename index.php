@@ -47,21 +47,6 @@
 
         <div class="content-section">
             <hr>
-            <h1>THE RULES</h1>
-            <p>To play on our server, you must follow these rules:</p>
-            <ol id="rule-list">
-                <li class="rule-list-entry">Do not use client-side cheats or hacks.</li>
-                <li class="rule-list-entry">Do not exploit any server-side bugs. <a href="#">Report them!</a></li>
-                <li class="rule-list-entry">Do not attempt to lag or cause harm to the server.</li>
-                <li class="rule-list-entry">No inappropriate material (builds, chat, etc). Includes swearing. Keep it PG.</li>
-                <li class="rule-list-entry">No griefing or defacing the surface of the world.</li>
-                <li class="rule-list-entry">No harassing or bullying other players.</li>
-                <li class="rule-list-entry">Do not advertise other servers or products.</li>
-            </ol>
-        </div>
-
-        <div class="content-section">
-            <hr>
             <h1>JOIN OUR TEAM</h1>
             <p>Join an extremely talented and hard-working team that volunteer to make this server possible.</p>
             <p><a href="https://ruinscraft.com/forums/staff-applications/">Apply here</a></p>
