@@ -36,8 +36,8 @@
 			    <li class="rule-list-entry">If a town/build has no claims to it and is not near a claim, you may claim/loot/destroy it (but please don't make it ugly).</li>
 				<li class="rule-list-entry">Griefing canals, bridges, paths, and other transportation methods in unclaimed areas is not allowed.</li>
 				<li class="rule-list-entry">Do not create a town next to another town just to block the other town's growth. If you're a nearby town, you are allowed to expand next to it.</li>
-				<li class="rule-list-entry">Spawn killing or trapping a player is not allowed (unless in war mode).<li>
-				<li class="rule-list-entry">Killing players is not allowed (unless in war mode, or if enabled by town). If you can't PvP, don't use lava/etc to kill someone.<li>
+				<li class="rule-list-entry">Spawn killing or trapping a player is not allowed (unless in war mode).</li>
+				<li class="rule-list-entry">Killing players is not allowed (unless in war mode, or if enabled by town). If you can't PvP, don't use lava/etc to kill someone.</li>
             </ol>
         </div>
     </div>
