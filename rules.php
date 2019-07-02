@@ -26,12 +26,15 @@
 			<ol id="rule-list">
 			    <li class="rule-list-entry">Do not significantly alter or destory the surface of the world. You can cut down a tree, but don't blow up a mountain.</li>
 				<li class="rule-list-entry">Do not build unrealistic structures (sky islands, floating towns, etc).</li>
+				<li class="rule-list-entry">Do not block waterways.</li>
 				<li class="rule-list-entry">Towns can be named anything, but we recommend naming them after real life places. If you go to Chicago, you expect to see Chicago, not HerobrineCity.</li>
 				<li class="rule-list-entry">Nations must be named after a formerly or currently existing nation, territory, geographical feature, or city. You can add title such as "Empire" to the end of them.</li>
 				<li class="rule-list-entry">Towns and nation names shouldn't be so similar to another town or nation that someone could be confused between them. ("Britain" vs. "GreatBritain")</li>
 				<li class="rule-list-entry">Towns can be any distance away from a nation capital. The nation's name must be relevant to the nation's capital's location.</li>
-			    <li class="rule-list-entry">Griefing or destroying land around towns is not allowed.</li>
+			    <li class="rule-list-entry">Stealing when not in war mode is not allowed.</li>
+				<li class="rule-list-entry">Griefing or destroying land around towns is not allowed.</li>
 			    <li class="rule-list-entry">If a town is abandoned with no claims to it, you may claim/loot/destroy it.</li>
+				<li class="rule-list-entry">Canals, bridges, paths, and other transportation methods in unclaimed areas should not be griefed.</li>
 				<li class="rule-list-entry">Do not create a town next to another town just to block the other town's growth. If you're a nearby town, you are allowed to expand next to it.</li>
             </ol>
         </div>
