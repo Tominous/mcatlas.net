@@ -24,7 +24,7 @@
 			<h2>Town and World Rules</h2>
 
 			<ol id="rule-list">
-			    <li class="rule-list-entry">Do not significantly alter or destory the surface of the world. You can cut down a tree, but don't blow up a mountain.</li>
+			    <li class="rule-list-entry">Do not significantly alter or destroy the surface of the world. You can cut down a tree, but don't blow up a mountain.</li>
 				<li class="rule-list-entry">Do not build unrealistic structures (sky islands, floating towns, etc).</li>
 				<li class="rule-list-entry">Do not block waterways.</li>
 				<li class="rule-list-entry">Towns can be named anything, but we recommend naming them after real life places. If you go to Chicago, you expect to see Chicago, not HerobrineCity.</li>
