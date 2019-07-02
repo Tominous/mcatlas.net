@@ -26,16 +26,18 @@
 			<ol id="rule-list">
 			    <li class="rule-list-entry">Do not significantly alter or destroy the surface of the world. You can cut down a tree, but don't blow up a mountain.</li>
 				<li class="rule-list-entry">Do not build unrealistic structures (sky islands, floating towns, etc).</li>
-				<li class="rule-list-entry">Do not block waterways.</li>
+				<li class="rule-list-entry">Do not block waterways. Being able to travel by water around the map is important!</li>
 				<li class="rule-list-entry">Towns can be named anything, but we recommend naming them after real life places. If you go to Chicago, you expect to see Chicago, not HerobrineCity.</li>
-				<li class="rule-list-entry">Nations must be named after a formerly or currently existing nation, territory, geographical feature, or city. You can add title such as "Empire" to the end of them.</li>
+				<li class="rule-list-entry">Nations must be named after a formerly or currently existing nation, territory, geographical feature, or city. You can add titles such as "Empire" to the end of them.</li>
 				<li class="rule-list-entry">Towns and nation names shouldn't be so similar to another town or nation that someone could be confused between them. ("Britain" vs. "GreatBritain")</li>
 				<li class="rule-list-entry">Towns can be any distance away from a nation capital. The nation's name must be relevant to the nation's capital's location.</li>
 			    <li class="rule-list-entry">Stealing when not in war mode is not allowed.</li>
-				<li class="rule-list-entry">Griefing or destroying land around towns is not allowed.</li>
-			    <li class="rule-list-entry">If a town is abandoned with no claims to it, you may claim/loot/destroy it.</li>
-				<li class="rule-list-entry">Canals, bridges, paths, and other transportation methods in unclaimed areas should not be griefed.</li>
+				<li class="rule-list-entry">Griefing or destroying things at the edge of a town's claim is not allowed.</li>
+			    <li class="rule-list-entry">If a town/build has no claims to it and is not near a claim, you may claim/loot/destroy it (but please don't make it ugly).</li>
+				<li class="rule-list-entry">Griefing canals, bridges, paths, and other transportation methods in unclaimed areas is not allowed.</li>
 				<li class="rule-list-entry">Do not create a town next to another town just to block the other town's growth. If you're a nearby town, you are allowed to expand next to it.</li>
+				<li class="rule-list-entry">Spawn killing or trapping a player is not allowed (unless in war mode).<li>
+				<li class="rule-list-entry">Killing players is not allowed (unless in war mode, or if enabled by town). If you can't PvP, don't use lava/etc to kill someone.<li>
             </ol>
         </div>
     </div>
