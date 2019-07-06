@@ -27,8 +27,8 @@
                         </a>
                     </li>
                     <li>
-                        <a class="nav-link" href="javascript:;" onclick="setURL(&quot;&quot;, this);">
-                            Coming Soon
+                        <a class="nav-link" href="javascript:;" onclick="setURL(&quot;https://minecraft-server-list.com/server/442029/vote/&quot;, this);">
+                            Minecraft-Server-List.com
                         </a>
                     </li>
                 </ul>
