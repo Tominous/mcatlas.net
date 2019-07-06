@@ -17,7 +17,7 @@
             <div class="vote">
                 <ul id="vote-links">
                     <li>
-                        <a class="ndzn-active-voteLink nav-link" href="javascript:;" onclick="setURL(&quot;https://minecraftservers.org/vote/555821&quot;, this);">
+                        <a class="ndzn-active-voteLink nav-link" href="javascript:;" onclick="setURL(&quot;https://minecraftservers.org/server/555821&quot;, this);">
                             MinecraftServers.org
                         </a>
                     </li>
@@ -32,7 +32,7 @@
                         </a>
                     </li>
                 </ul>
-                <iframe src="https://minecraftservers.org/vote/555821" id="vote-page"></iframe>
+                <iframe src="https://minecraftservers.org/server/555821" id="vote-page"></iframe>
             </div>
         </div>
         
