@@ -32,7 +32,7 @@
                         </a>
                     </li>
                 </ul>
-                <iframe src="https://minecraftservers.org/server/555821" id="vote-page"></iframe>
+                <iframe src="https://minecraftservers.org/vote/555821" id="vote-page"></iframe>
             </div>
         </div>
         
