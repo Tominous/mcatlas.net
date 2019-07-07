@@ -21,9 +21,7 @@
             <hr>
             <h1>EXPLORE MCATLAS</h1>
             <p>Have you ever wanted to play in a Minecraft world that is just like the real world?</p>
-            <p>MCATLAS hosts a 1:1000 scale replica of the Earth (except it's flat)! You can create towns, form
-                nations, go to war, and most importantly, have loads of fun with friends on this unique server
-                experience.</p>
+            <p>MCAtlas hosts a 1:1000 scale replica of the Earth in Minecraft! You can create towns, form nations, build an empire or become a hobbit. There are real life ore deposits and live weather! It's a unique experience, even more fun with friends!</p>
             <p>You can view a real-time map of the world <a href="/map">here!</a></p>
         </div>
 

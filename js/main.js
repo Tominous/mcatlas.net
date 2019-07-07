@@ -14,3 +14,8 @@ function setURL(url, el) {
   $('.ndzn-active-voteLink').removeClass('ndzn-active-voteLink');
   $(el).addClass('ndzn-active-voteLink');
 }
+
+function openInNewTab(url) {
+  var win = window.open(url, '_blank');
+  win.focus();
+}
