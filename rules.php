@@ -1,47 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-	<title>MCATLAS - A worldly Minecraft server</title>
-	<meta name="description" content="Play Minecraft on a map of the Earth! MCATLAS hosts a 1:1000 scale map of the Earth in Minecraft!">
-	<meta name="keywords" content="minecraft,mc,earth,world,map,server,survival,towns,towny,mcatlas,atlasmc,eco,econ,ecnomomy,gold,dynmap,vote">
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
-	<link rel="stylesheet" type="text/css" href="/css/main.css">
-	<link rel="stylesheet" type="text/css" href="/css/jquery-eu-cookie-law-popup.css">
-
-	<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-142397828-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-
-		function gtag() {
-			dataLayer.push(arguments);
-		}
-		gtag('js', new Date());
-
-		gtag('config', 'UA-142397828-1');
-	</script>
-	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-	<script defer="" src="/js/main.js"></script>
-	<script async="" src="/js/jquery-eu-cookie-law-popup.js"></script>
-</head>
+<?php include('includes/head.php') ?>
 
 <body>
-	<div class="bg" style="transform: translate3d(-3.09712%, -3.23858%, 0px);"></div>
-	<div class="bg-trans"></div>
-	<nav class="navbar">
-		<a class="button" href="/">HOME</a> <a class="button gold-text" href="/vote">VOTE</a>
-		<a class="button" href="/map">MAP</a>
-		<a class="button" href="/rules">RULES</a>
-		<a class="button" href="https://mcatlas.fandom.com">WIKI</a>
-		<a class="button" href="/bans">BANS</a>
-		<a class="button" href="https://discordapp.com/invite/srSSSgJ">DISCORD</a>
-	</nav>
-	<div class="eupopup eupopup-bottom"></div>
+	<?php include('includes/nav.php') ?>
+
 	<div class="content-minified">
 		<div class="content-section">
 			<h1>MCATLAS Rules</h1>
@@ -86,28 +50,8 @@
 			</div>
 		</div>
 	</div>
-	<img id="antartica-bg" src="/img/antartica.png" alt="antartica">
-	<div class="footer">
-		<div id="copyright">
-			<img src="/img/ruinscraft-scaled.png" style="width:5rem;height:auto;padding:15px;" alt="ruinscraft-logo">
-			<p>
-				MCATLAS is a Minecraft server by <a href="https://ruinscraft.com">Ruinscraft</a>.
-				©
-				2019 Ruinscraft.
-			</p>
-			<p>Minecraft is a registered trademark of Microsoft Corporation.</p>
-		</div>
-		<div id="social">
-			<p>
-				<a href="/terms-and-privacy">Terms and Privacy</a><br>
-				<a href="/contact">Contact</a><br>
-				<a href="https://twitter.com/ruinscraft">Twitter</a><br>
-				<a href="https://facebook.com/RuinscraftMinecraftServer">Facebook</a><br>
-				<a href="https://github.com/Ruinscraft">GitHub</a><br>
-				<a href="https://www.youtube.com/user/royalkingkb">YouTube</a><br>
-			</p>
-		</div>
-	</div>
+
+	<?php include('includes/footer.php') ?>
 </body>
 
 </html>
