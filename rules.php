@@ -32,7 +32,7 @@
 					<li class="rule-list-entry">Griefing or destroying things at the edge of a town's claim is not allowed. Mining near claims is fine.</li>
 					<li class="rule-list-entry">If a town/build has no claims to it and is not near a claim, you may claim/loot/destroy it (but please don't make it ugly).</li>
 					<li class="rule-list-entry">Griefing canals, bridges, paths, and other transportation methods in unclaimed areas is not allowed.</li>
-					<li class="rule-list-entry">Stealing is discouraged. We cannot prove theft, so we cannot punish for it. Ensure you lock your chests by placing a sign on them.</li>
+					<li class="rule-list-entry">Theft of items is discouraged. We cannot typically punish for theft if we cannot prove it. Town or Nation bank theft is easily provable and will result in heavy punishment. Ensure you lock your chests to prevent item theft by placing a sign on them.</li>
 				</ol>
 				<h3>Towny (Town and Nations)</h3>
 				<ol id="rule-list">
