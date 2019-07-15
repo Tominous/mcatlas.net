@@ -44,7 +44,7 @@
 				</ol>
 				<h3>PvP</h3>
 				<ol id="rule-list">
-					<li class="rule-list-entry">Spawn killing or trapping a player is not allowed.</li>
+					<li class="rule-list-entry">Spawn killing or trapping a player is not allowed (even if the town has PvP enabled).</li>
 					<li class="rule-list-entry">Killing players is not allowed (unless PvP is enabled by the town). If you can't PvP, don't use lava/etc to kill someone.</li>
 				</ol>
 			</div>
