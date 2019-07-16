@@ -26,7 +26,7 @@
 					<li class="rule-list-entry">Do not build unrealistic structures (sky islands, floating towns, etc).</li>
 					<li class="rule-list-entry">Do not create large islands (more than 1x1 chunk) in oceans. You are not allowed to create multiple islands in one area.</li>
 					<li class="rule-list-entry">Do not block waterways. You may build bridges; they must be at least 2 blocks above the surface of the water so boats may pass underneath.</li>
-					<li class="rule-list-entry">Do not build bridges more than 3 blocks wide across large oceans or bays. Typically, ice bridges with side walls or railroad bridges are a good idea.</li>
+					<li class="rule-list-entry">Do not build bridges more than 4 blocks wide across large oceans or bays. Typically, ice bridges with side walls or railroad bridges are a good idea.</li>
 				</ol>
 				<h3>Griefing and Theft</h3>
 				<ol id="rule-list">
