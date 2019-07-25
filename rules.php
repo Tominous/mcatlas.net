@@ -25,7 +25,7 @@
 					<li class="rule-list-entry">Do not significantly alter or destroy the surface of the world. You can cut down a tree, but don't blow up a mountain.</li>
 					<li class="rule-list-entry">Do not build unrealistic structures (sky islands, floating Towns, underwater cities, etc).</li>
 					<li class="rule-list-entry">Do not create large islands (more than 1x1 chunk) in oceans. You are not allowed to create multiple islands in one area.</li>
-					<li class="rule-list-entry">Do not block waterways. You may build bridges; they must be at least 2 blocks above the surface of the water so boats may pass underneath.</li>
+					<li class="rule-list-entry">Do not block waterways. You may build bridges; at least a 2 block gap between the surface of the water and the bottom of the bridge must be left so boats may easily pass underneath.</li>
 					<li class="rule-list-entry">Do not build bridges more than 4 blocks wide across large oceans or bays. Typically, ice bridges with side walls or railroad bridges are a good idea.</li>
 				</ol>
 				<h3>Griefing and Theft</h3>
