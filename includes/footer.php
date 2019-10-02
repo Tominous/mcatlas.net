@@ -11,7 +11,7 @@
                 date_default_timezone_set('GMT');
             }
             echo date("Y");
-            ?> Ruinscraft.
+            ?> Ruinscraft, LLC.
         </p>
         <p>Minecraft is a registered trademark of Microsoft Corporation.</p>
     </div>
