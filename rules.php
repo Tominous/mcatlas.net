@@ -19,6 +19,7 @@
 					<li class="rule-list-entry">No harassing or bullying other players.</li>
 					<li class="rule-list-entry">No spamming or flooding chat.</li>
 					<li class="rule-list-entry">Do not advertise other servers or products.</li>
+					<li class="rule-list-entry">If a staff member is performing staff duties, don't attack them. Be nice.</li>
 				</ol>
 				<h3>Builds</h3>
 				<ol id="rule-list">
@@ -46,8 +47,9 @@
 				</ol>
 				<h3>PvP</h3>
 				<ol id="rule-list">
-					<li class="rule-list-entry">Trapping a player (portal traps, etc.) or killing a player repeatedly at their spawnpoint is not allowed (even if the Town has PvP enabled).</li>
 					<li class="rule-list-entry">Killing players is not allowed (unless PvP is enabled by the Town). If you can't PvP, don't use other methods (lava, etc.) to kill someone.</li>
+					<li class="rule-list-entry">Trapping a player (portal traps, etc.) or killing a player repeatedly at their spawnpoint is not allowed (even if the Town has PvP enabled).</li>
+					<li class="rule-list-entry">Tricking a player into PvP, trapping a player at a town spawnpoint, or enabling PvP in your town to kill someone is not allowed.</li>
 				</ol>
 			</div>
 		</div>
