@@ -39,7 +39,7 @@
 				<h3>Towny (Towns and Nations)</h3>
 				<ol id="rule-list">
 					<li class="rule-list-entry">Towns can be named anything, but we recommend naming them after real life places. If you go to Chicago, you expect to see Chicago, not EpicBurgerTown.</li>
-					<li class="rule-list-entry">Nations must be named after a formerly or currently existing Nation, territory, geographical feature, or city. You can add titles such as "Empire" to the end of them.</li>
+					<li class="rule-list-entry">Nations must be named after a formerly or currently existing nation, territory, geographical feature, or city in real life. You can add titles such as "Empire" to the name.</li>
 					<li class="rule-list-entry">Towns and Nation names shouldn't be so similar to another Town or Nation that someone could be confused between them. ("Britain" vs. "GreatBritain")</li>
 					<li class="rule-list-entry">Towns can be any distance away from a Nation capital. The Nation's name must be relevant to the Nation's capital's location.</li>
 					<li class="rule-list-entry">You may only have up to 2 alternate accounts join a town. This is to prevent inflating town sizes.</li>
@@ -47,9 +47,9 @@
 				</ol>
 				<h3>PvP</h3>
 				<ol id="rule-list">
-					<li class="rule-list-entry">Killing players is not allowed (unless PvP is enabled by the Town). If you can't PvP, don't use other methods (lava, etc.) to kill someone.</li>
-					<li class="rule-list-entry">Trapping a player (portal traps, etc.) or killing a player repeatedly at their spawnpoint is not allowed (even if the Town has PvP enabled).</li>
-					<li class="rule-list-entry">Tricking a player into PvP, trapping a player at a town spawnpoint, or enabling PvP in your town to kill someone is not allowed.</li>
+					<li class="rule-list-entry">PvP is only allowed if PvP is enabled by the Town. If you can't PvP, don't use other methods (lava, etc.) to kill someone.</li>
+					<li class="rule-list-entry">Tricking a player into PvP is not allowed. Enabling PvP in your town to kill someone is allowed if you give the player a clear warning and chance to leave.</li>
+					<li class="rule-list-entry">Trapping a player so that they could never escape by themselves (portal traps, bed traps, etc.) is not allowed, even if a Town has PvP enabled.</li>
 				</ol>
 			</div>
 		</div>
