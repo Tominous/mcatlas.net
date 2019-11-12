@@ -48,7 +48,7 @@
 				<h3>PvP</h3>
 				<ol id="rule-list">
 					<li class="rule-list-entry">PvP is only allowed if PvP is enabled by the Town. If you can't PvP, don't use other methods (lava, etc.) to kill someone.</li>
-					<li class="rule-list-entry">Tricking a player into PvP is not allowed. Enabling PvP in your town to kill someone is allowed if you give the player a clear warning and chance to leave.</li>
+					<li class="rule-list-entry">Killing or attacking anybody without a fair warning of the fight is not allowed, even if a Town has PvP enabled.</li>
 					<li class="rule-list-entry">Trapping a player so that they could never escape by themselves (portal traps, bed traps, etc.) is not allowed, even if a Town has PvP enabled.</li>
 				</ol>
 			</div>
