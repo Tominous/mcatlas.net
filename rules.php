@@ -20,6 +20,7 @@
 					<li class="rule-list-entry">No spamming or flooding chat.</li>
 					<li class="rule-list-entry">Do not advertise other servers or products.</li>
 					<li class="rule-list-entry">If a staff member is performing staff duties, don't attack them. Be nice.</li>
+					<li class="rule-list-entry">Do not evade or attempt to evade a ban or mute.</li>
 				</ol>
 				<h3>Builds</h3>
 				<ol id="rule-list">
