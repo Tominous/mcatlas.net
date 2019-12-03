@@ -20,6 +20,7 @@
 					<li class="rule-list-entry">No spamming or flooding chat.</li>
 					<li class="rule-list-entry">Do not advertise other servers or products.</li>
 					<li class="rule-list-entry">If a staff member is performing staff duties, don't attack them. Be nice.</li>
+					<li class="rule-list-entry">Do not evade or attempt to evade a ban or mute.</li>
 				</ol>
 				<h3>Builds</h3>
 				<ol id="rule-list">
@@ -34,7 +35,8 @@
 					<li class="rule-list-entry">Griefing is not allowed.</li>
 					<li class="rule-list-entry">Griefing of unclaimed railways, paths, portals, hubs, etc. is not allowed.</li>
 					<li class="rule-list-entry">If a build has no claims to it and is not near another claim, you may claim/loot/destroy it (but please don't make it ugly). If it looks like it's part of a nearby Town, don't touch it!</li>
-					<li class="rule-list-entry">Theft of items is discouraged but allowed. Town or Nation bank theft is easily provable and will result in heavy punishment. Ensure you lock your chests to prevent item theft by placing a sign on them.</li>
+					<li class="rule-list-entry">Theft of items (from chests) is discouraged but allowed. Town or Nation bank theft is easily provable and will result in heavy punishment. Ensure you lock your chests to prevent item theft by placing a sign on them.</li>
+					<li class="rule-list-entry">Theft of items (by killing a player who does not consent to PvP) is not allowed.</li>
 				</ol>
 				<h3>Towny (Towns and Nations)</h3>
 				<ol id="rule-list">
