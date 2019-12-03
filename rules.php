@@ -42,7 +42,7 @@
 					<li class="rule-list-entry">Nations must be named after a formerly or currently existing nation, territory, geographical feature, or city in real life. You can add titles such as "Empire" to the name.</li>
 					<li class="rule-list-entry">Towns and Nation names shouldn't be so similar to another Town or Nation that someone could be confused between them. ("Britain" vs. "GreatBritain")</li>
 					<li class="rule-list-entry">Towns can be any distance away from a Nation capital. The Nation's name must be relevant to the Nation's capital's location.</li>
-					<li class="rule-list-entry">You may only have up to 2 alternate accounts join a town. This is to prevent inflating town sizes.</li>
+					<li class="rule-list-entry">You may only have up to 2 alternate accounts join a town. An alternate account cannot be the mayor of a town.</li>
 					<li class="rule-list-entry">Do not create a Town or claim land close to another Town just to block the other Town's growth. You are allowed to expand near/next to it if given permission by the original Town. Don't go out of your way to claim near their Town!</li>
 				</ol>
 				<h3>PvP</h3>
