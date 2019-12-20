@@ -35,11 +35,10 @@
             <hr>
             <h1>LEARN TO PLAY</h1>
             <ul id="help-list">
-                <li><a href="#">Coming Soon</a></li>
-                <li><a href="#">Coming Soon</a></li>
-                <li><a href="#">Coming Soon</a></li>
-                <li><a href="#">Coming Soon</a></li>
-                <li><a href="#">Coming Soon</a></li>
+                <li><a href="https://github.com/Ruinscraft/mcatlas-wiki/wiki">Getting Started</a></li>
+                <li><a href="https://github.com/Ruinscraft/mcatlas-wiki/wiki/How-to-Get-Gold">Getting Gold</a></li>
+                <li><a href="https://github.com/Ruinscraft/mcatlas-wiki/wiki/Creating-a-Town">Creating a Town</a></li>
+                <li><a href="https://github.com/Ruinscraft/mcatlas-wiki/wiki/Creating-a-Nation">Creating a Nation</a></li>
             </ul>
         </div>
 
