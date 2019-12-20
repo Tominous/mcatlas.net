@@ -19,8 +19,8 @@ $rs_nation_count = mysqli_query($mysql_conn, $mysqlq_nation_count);
 $rs_resident_count = mysqli_query($mysql_conn, $mysqlq_resident_count);
 
 $town_count = $rs_town_count->fetch_row()[0];
-$nation_count = $rs_nation_count[0]->fetch_row()[0];
-$resident_count = $rs_resident_count[0]->fetch_row()[0];
+$nation_count = $rs_nation_count->fetch_row()[0];
+$resident_count = $rs_resident_count->fetch_row()[0];
 
 ?>
 
