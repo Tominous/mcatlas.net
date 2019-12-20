@@ -14,9 +14,9 @@ $mysqlq_town_count = "select count(name) from TOWNY_TOWNS;";
 $mysqlq_nation_count = "select count(name) from TOWNY_NATIONS;";
 $mysqlq_resident_count = "select count(name) from TOWNY_RESIDENTS;";
 
-$rs_town_count = mysql_query($mysqlq_town_count);
-$rs_nation_count = mysql_query($mysqlq_nation_count);
-$rs_resident_count = mysql_query($mysqlq_resident_count);
+$rs_town_count = mysqli_query($mysqlq_town_count);
+$rs_nation_count = mysqli_query($mysqlq_nation_count);
+$rs_resident_count = mysqli_query($mysqlq_resident_count);
 
 $town_count = $rs_town_count[0];
 $nation_count = $rs_nation_count[0];
