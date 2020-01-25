@@ -34,7 +34,8 @@
 				<ol id="rule-list">
 					<li class="rule-list-entry">Griefing is not allowed.</li>
 					<li class="rule-list-entry">Griefing of unclaimed railways, paths, portals, hubs, etc. is not allowed.</li>
-					<li class="rule-list-entry">If a build is seemingly abandoned, has no claims to it, is not near another claim, you may claim/loot/destroy it (but please don't make it ugly). If it looks like it's part of a nearby Town, don't touch it!</li>
+					<li class="rule-list-entry">If a build is seemingly abandoned, has no claims to it, and is not near another claim, you may claim/loot/destroy it. If it looks like it's part of a nearby Town, don't touch it!</li>
+					<li class="rule-list-entry">Griefing a seemingly abandoned build in an ugly way (lava, fire, random blocks, etc.) is not allowed.</li>
 					<li class="rule-list-entry">Theft of items (from chests) is discouraged but allowed. Town or Nation bank theft is easily provable and will result in heavy punishment. Ensure you lock your chests to prevent item theft by placing a sign on them.</li>
 					<li class="rule-list-entry">Theft of items (by killing a player who does not consent to PvP) is not allowed.</li>
 				</ol>
@@ -49,7 +50,7 @@
 				</ol>
 				<h3>PvP</h3>
 				<ol id="rule-list">
-					<li class="rule-list-entry">PvP is only allowed if PvP is enabled by the Town. If you can't PvP, don't use other methods (lava, etc.) to kill someone.</li>
+					<li class="rule-list-entry">PvP is only allowed if PvP is enabled by the Town. If you can't PvP, don't use other methods (lava, making a new claim, etc.) to kill someone.</li>
 					<li class="rule-list-entry">Killing or attacking anybody without a fair warning of the fight is not allowed, even if a Town has PvP enabled.</li>
 					<li class="rule-list-entry">Trapping a player so that they could never escape by themselves (portal traps, bed traps, etc.) is not allowed, even if a Town has PvP enabled.</li>
 				</ol>
